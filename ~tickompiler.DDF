@@ -1,0 +1,30 @@
+;Auto-generated Diamond Directive File. Can be deleted without harm.
+.Set CabinetNameTemplate=C:\Tickompiler\~tickompiler.CAB
+.Set CompressionType=LZX
+.Set CompressionLevel=7
+.Set InfFileName=C:\Tickompiler\~tickompiler_LAYOUT.INF
+.Set RptFileName=C:\Tickompiler\~tickompiler.RPT
+.Set MaxDiskSize=CDROM
+.Set ReservePerCabinetSize=0
+.Set InfCabinetLineFormat=*cab#*=Application Source Media,*cabfile*,0
+.Set Compress=on
+.Set CompressionMemory=21
+.Set DiskDirectoryTemplate=
+.Set Cabinet=ON
+.Set MaxCabinetSize=999999999
+.Set InfDiskHeader=
+.Set InfDiskLineFormat=
+.Set InfCabinetHeader=[SourceDisksNames]
+.Set InfFileHeader=
+.Set InfFileHeader1=[SourceDisksFiles]
+.Set InfFileLineFormat=*file*=*cab#*,,*size*,*csum*
+"C:\Tickompiler\base.bin"
+"C:\Tickompiler\BINtoTICKFLOW.bat"
+"C:\Tickompiler\code.bin"
+"C:\Tickompiler\Extract.bat"
+"C:\Tickompiler\Help.bat"
+"C:\Tickompiler\locations.json"
+"C:\Tickompiler\Put.bat"
+"C:\Tickompiler\TICKFLOWtoBIN.bat"
+"C:\Tickompiler\Tickompiler.bat"
+"C:\Tickompiler\tickompiler.jar"
