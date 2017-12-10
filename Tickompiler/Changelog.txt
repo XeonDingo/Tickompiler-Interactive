@@ -1,0 +1,33 @@
+2.0.0
+	- Created
+
+- Tickompiler Interactive Batch Version-
+Ver. 1.2.6
+ 	- Changed default theme to Dark
+	- Bugfixes
+Ver. 1.2.6
+ 	- Redesigned  the home menu, making it easier to read
+ 	- Bug Fixes
+Ver. 1.2.5
+ 	 - Bug fixes
+Ver. 1.2.4
+ 	- Added the link to download Tickompiler online
+        - Added the Tickompiler MIT License
+ 	- Renamed from just "Tickompiler" to "Tickompier Interactive"
+        - Added the ability to reopen the "Game Files" folder if it is accedentally closed
+        - Bug Fixes
+ 	- Removed Funky Fish.
+ Ver. 1.2.3
+ 	- Slightly altered the code.bin error message
+ 	- Added in theme switch option (Swap Between Dark and Lighth Themes!)
+ 	- Secrets...
+ Ver. 1.2.2
+ 	- Added the need for your own code.bin file
+ 	- Added the ability to extract games with the tempo files
+ Ver. 1.2.1
+	- Added Changelog
+ 	- Added Credits
+ 	- Added the ability to convert all game files into *.tickflow or *.bin
+ 	- Added link to documentation
+ Ver. 1.2.0
+ 	-Release 1

@@ -1,0 +1,12 @@
+Creator of Tickompiler: Tiesoul and chrislo27
+Creator of the RHMM Patch: Neobeo
+Working editors on Tickflow Documentation: Tiesoul and Megaminerzero
+Creator of Tickompiler Interactive: Xeon Dingo
+Tickompiler 2.0.0 is coded with AutiIT which can be found here:
+https://www.autoitscript.com/site/
+Thanks to Nintendo for creating Rhythm Heaven Megamix
+Tickompiler Download: https://github.com/SneakySpook/Tickompiler/releases
+Tickompiler uses the MIT Licence
+Tickompiler version: 1.6.6
+*NOTE
+If you would like your name changed in the credits mesage @Xeon#6218 on Discord
